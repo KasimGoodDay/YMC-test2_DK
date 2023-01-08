@@ -1,0 +1,52 @@
+RELEASE NOTE
+============
+1) Library Information
+
+Library name: YMG8K16F18L5BR1_Y10_RLN_V10
+Library version: 1.0
+Library type:MTP   
+Technology:  0.18um 3.3V/(5V)6Vdual-gate MCU Technology Process    
+Foundry:     Globalfoundrie
+
+
+2) Update History
+
+  Date         DB Ver.        Ver.               Reason
+----------------------------------------------------------
+
+2022/05/03     Y10            1.0                Original 
+                                
+
+
+
+
+                              
+3) Design Kit Version Dependency Table
+
+RLN    SP    SM     PTO    PT     TM     TF    DP    AN    CI    SPF    CMRF
+-----------------------------------------------------------------------------
+1.0   1.0   1.0     1.0    1.0    1.0    1.0   1.0   1.0   1.0   1.0     2.3
+
+
+RLN = Release note
+SP  = Product specification
+SM  = Simulation model(verilog)
+PTO = Gds outline
+PT  = Gds frame(including above all metal1 layers)
+TM  = Synopsys timing model(TB, TT, TW)       
+TF  = Test Flow
+DP  = Diagonal pattern
+AN  = Application Note
+CI  = Chip Information(The CI includes both GDS= gds version and SPI= spice/lvs netlist version)  
+SPF = spice/lvs netlist header
+CMRF= Customer merge request form
+
+
+
+4) Library Content
+
+
+5) Known Problems and Limitations
+
+
+6) Special Note

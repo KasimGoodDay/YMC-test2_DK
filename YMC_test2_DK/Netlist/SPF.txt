@@ -1,0 +1,25 @@
+**********************************
+*  YMG8K16F18L5BR1_Y10
+**********************************
+Description : 
+Foundry : Globalfoundries
+Process : 0.18um 3.3V/(5V)6Vdual-gate MCU Technology Process  
+YMC IP Top Metal: Metal 3 
+
+
+
+
+
+.SUBCKT YMG8K16F18L5BR1_Y10
++ ADR[0] ADR[1] ADR[2] ADR[3] ADR[4] ADR[5] ADR[6] ADR[7] ADR[8] ADR[9]
++ ADR[10] ADR[11] ADR[12] BUSY CLEN CLKIN CS DIN[0] DIN[1] DIN[2]
++ DIN[3] DIN[4] DIN[5] DIN[6] DIN[7] DIN[8] DIN[9] DIN[10] DIN[11] DIN[12]
++ DIN[13] DIN[14] DIN[15] DOUT[0] DOUT[1] DOUT[2] DOUT[3] DOUT[4] DOUT[5] DOUT[6] 
++ DOUT[7] DOUT[8] DOUT[9] DOUT[10] DOUT[11] DOUT[12] DOUT[13] DOUT[14] DOUT[15] EEPROM 
++ IFREN ISAVB MRGN READ SRL STATICEN VDD VSS WR
+
+
+
+
+
+

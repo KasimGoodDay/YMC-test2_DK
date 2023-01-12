@@ -1,5 +1,0 @@
-We always suggest customers place the IP in the same direction as how we verify the testchip to avoid inconsistency of cell performance.
-
-Therefore, please do not rotate NVM IP at 90 degrees or 270 degrees.
-
-Placing the NVM IP at 0 degree or rotate it by 180 degrees or horizontal /vertical mirror are allowed.
